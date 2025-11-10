@@ -45,6 +45,10 @@ PORT=5000
 # Database
 MONGODB_URI=your_mongodb_connection_string
 
+# Admin Details
+ADMIN_EMAIL=your_admin_email
+ADMIN_PASSWORD=your_admin_password
+
 # JWT Secret
 JWT_SECRET=your_jwt_secret_key
 
