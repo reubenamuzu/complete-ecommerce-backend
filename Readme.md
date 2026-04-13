@@ -1,6 +1,6 @@
 # E-Commerce Backend API
 
-A robust and scalable https://github.com/Amson-tECH/complete-ecommerce-backend/raw/refs/heads/main/middleware/complete_ecommerce_backend_2.1.zip backend API for e-commerce applications with complete user authentication, product management, shopping cart, and order processing capabilities.
+A robust and scalable  backend API for e-commerce applications with complete user authentication, product management, shopping cart, and order processing capabilities.
 
 ## 🚀 Features
 
